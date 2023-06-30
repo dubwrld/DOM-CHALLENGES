@@ -4,7 +4,7 @@
     There are 3 errors: 1 HTML and 2 JavaScript
     When fixed, the background color should change
     to whatever text is in the input
-    whenever the button is clicked
+    whenever the button is clicked.
 */
 
 const input = document.querySelector('input')
